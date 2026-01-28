@@ -10,6 +10,11 @@ This repository tracks my progress, exercises, and projects during an intensive 
 ## 📅 Week 1: SQL Foundations & Git
 The goal of this week is to master data extraction and code versioning.
 
+### Day 1: Environment Setup
+* **Tools installed:** Git, Visual Studio Code, DBeaver.
+* **Configurations:** Git identity (user.name/email), GitHub connection.
+* **Goal:** Setting up a professional local development environment.
+
 ### Day 2: Filtering and Sorting Data
 * **Exercise 1:** Extracting Brazilian customers with an ID greater than 10.
 * **Exercise 2:** High-value US Invoice analysis (Total > $10).
