@@ -20,5 +20,10 @@ The goal of this week is to master data extraction and code versioning.
 * **Exercise 2:** High-value US Invoice analysis (Total > $10).
 * **Skills acquired:** `SELECT`, `WHERE`, `AND`, `ORDER BY`, Git basics (add, commit, push).
 
+### Day 3: SQL Aggregations
+* **Goal:** Calculate total revenue and number of sales per city.
+* **New Skills:** `SUM()`, `COUNT()`, `GROUP BY`, and using `AS` for aliases.
+* **Result:** Successfully identified top-performing cities in the USA.
+
 ---
 *Contact: Roman Lotodé*
